@@ -1,2 +1,2 @@
 # enyojo-portfolio
-my portdolio website
+my portfolio website
